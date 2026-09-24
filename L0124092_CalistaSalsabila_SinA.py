@@ -10,7 +10,7 @@ nodes = {
 }
 
 
-print("ERKELEY CLOCK SYNCHRONIZATION\n")
+print("BERKELEY CLOCK SYNCHRONIZATION\n")
 
 # Menampilkan waktu awal
 print("Waktu awal:")
